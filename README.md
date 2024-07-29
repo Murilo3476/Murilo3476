@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**Murilo3476/Murilo3476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Murilo 😃
 
-Here are some ideas to get you started:
+- Estou estudando através da Alura
+- Estou me desenvolvendo na linguagem de progamação JavaScript
+- Estou utilizando este espaço para me organizar nos meus projetos e para compartilhamentos dos mesmos
+  
+  ### Você pode entrar em contato através do email abaixo
+  
+00001119289944sp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![](https://tenor.com/pt-BR/view/kakashi-naruto-kakashi-hatake-hatake-kakashi-gif-13325583922053740545)
